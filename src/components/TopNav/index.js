@@ -16,7 +16,8 @@ class TopNav extends React.Component{
       isLogined:false,
       visible:false,
       actions:"1",  // 1:登录  2:注册
-      nick:""
+      nick:"",
+      hello:""
     }
   }
 
